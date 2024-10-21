@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![image](![Screenshot (91)](https://github.com/user-attachments/assets/b3ebd4d3-1894-4518-9d0b-64dba1de09a4)
+)
 
 
  
@@ -63,7 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+ ![image](![Screenshot (92)](https://github.com/user-attachments/assets/88569acb-bb1f-4dc3-b8c6-17bea439f8b4)
+)
 
 
 iv)	Creating the new test cell view
@@ -74,7 +76,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+ ![image](![Screenshot (90)](https://github.com/user-attachments/assets/50f82fa4-dbe9-44a4-b386-5bf7c39d04a5)
+)
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +89,15 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+ ![image](![Screenshot (94)](https://github.com/user-attachments/assets/7e37082d-ef3e-4c9b-9cb2-8c1377ba823f)
+)
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+ ![image](![Screenshot (95)](https://github.com/user-attachments/assets/fb2dd09b-32d2-4028-9244-8a89b401392c)
+)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+ ![image](![Screenshot (96)](https://github.com/user-attachments/assets/05b119f6-9cfa-4720-914e-df19d18a0cb2)
+)
 
 
 
