@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![image](![Screenshot (91)](https://github.com/user-attachments/assets/8733b058-79bf-479c-8320-eab20b072af7)
+)
 
 
  
@@ -63,7 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+ ![image](![Screenshot (92)](https://github.com/user-attachments/assets/31b18154-62f5-44af-b31e-02044b02cdb5)
+)
 
 
 iv)	Creating the new test cell view
@@ -74,7 +76,10 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+ ![image](![Screenshot (90)](https://github.com/user-attachments/assets/e054ceae-e388-498a-8234-3274de7357b9)
+)
+)
+)
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +91,16 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+ ![image](![Screenshot (94)](https://github.com/user-attachments/assets/5c12dffb-b7e5-43c0-b8f1-4a3fab8a4b61)
+)
+)
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+ ![image](![Screenshot (95)](https://github.com/user-attachments/assets/264dde15-03d0-4dad-8046-84de88ca74f8)
+)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+ ![image](![image](https://github.com/user-attachments/assets/81c0cdd9-303a-4c8c-b403-290153a8dfce)
+)
 
 
 
